@@ -11,11 +11,11 @@ global.APIKeys = {
 	'https://api-alphabot.herokuapp.com': 'Alphabot',
 }
 
-//web paiz
 
-global.IZKeys = {
-	'https://bit.ly/3CcGtUJ': 'Paiz-Md',
-}
+
+
+
+
 
 // setting 
 global.autoread = false // auto read pesan / message
